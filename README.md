@@ -1,11 +1,3 @@
-[x] The problem your project solves
-[x] The solution you bring to the table
-[x] What you have done during the weekend
-[x] The solution’s impact to the crisis
-[x] The necessities in order to continue the project
-[x] The value of your solution(s) after the crisis
-The URL to the prototype [Github, Website,...]
-
 # glocalize
 
 ## Problem statement
