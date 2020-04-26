@@ -1,4 +1,4 @@
-# glocalize
+# Glocalize
 
 ## Problem statement
 
