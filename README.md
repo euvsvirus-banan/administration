@@ -6,6 +6,12 @@ During a crisis there are many challenges that the population may have to face; 
 
 ## Proposed solution
 
+Glocalize:
+
+- is a social network where government officials and citizens are the stakeholders
+- allows government officials to reach their constituents and provide useful information
+- provides a platform for communities to help each other out to proactively share resources and help each other when nobody else can.
+
 Glocalize is a federated social network; different governments would run and control their own instance of the social network and federate with each other so the members of each individual platform can interact with each other if needed. As a local social network run by the government its main purpose would be to provide official information and to allow citizens communicate with each other. This communication would be aimed at local communities (i.e. by municipality or province or postal code, etc) allowing them to share relevant information about their community, build strong bonds and help each other out in time of need. As a federated social network people could organize around topics of interest and skills and share useful tips or knowledge useful during a crisis.
 
 ## Work during the hackathon
