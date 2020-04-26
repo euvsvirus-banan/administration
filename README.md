@@ -2,7 +2,7 @@
 
 ## Problem statement
 
-During a crisis there are many challenges that the population may have to face; mobility could be reduced or severely limited, special precautions may have to be taken, essential supplies may be in shortage, skilled professionals may not be available in the area, etc. In these times of need and uncertainty it is important that citizens have a platform where they can receive accurate information from city officials and that allows them to communicate with each other so they can help each other out and organize themselves to help the local authorities as needed.
+During a crisis there are many challenges communities face: mobility could be limited; special precautions may be necessary; supplies may not be available. In these times of need and uncertainty it is important to have access to accurate information; stay in contact with the community; help each other out.
 
 ## Proposed solution
 
