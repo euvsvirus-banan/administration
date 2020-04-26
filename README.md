@@ -39,4 +39,6 @@ In order to build this solution there are several things that are needed:
 
 ## URLS and other info
 
-TBD
+- [Pitch video](https://www.youtube.com/watch?v=Q8RKCtlHzME&feature=youtu.be)
+- [Frontend](https://github.com/euvsvirus-banan/frontend)
+- [Backend](https://github.com/euvsvirus-banan/backend)
